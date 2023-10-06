@@ -5,6 +5,6 @@ def main(s):
         s: str
     Returns:
         bool: answer
-    """
-    
-    return
+    """ 
+    return s.isupper()
+print(main("2004Doniyor"))
